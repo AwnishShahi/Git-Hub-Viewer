@@ -1,8 +1,7 @@
 $(document).ready(function () {
-    const apiKey =
-        "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";
-        
-    const username = "johnpapa";
+    const apiKey = "Put your github Api key";
+
+    const username = "Put the name of user you want to see";
     let currentPage = 1;
     let repositoriesPerPage = 10;
     let totalPages;
