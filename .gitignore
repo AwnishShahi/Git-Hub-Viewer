@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Build artifacts
+build/
+dist/
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+package-lock.json
+yarn.lock
+
+# MongoDB data directory
+data/
+
+# Mac OS
+.DS_Store
+
+# Editor backup files
+*~
