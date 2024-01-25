@@ -16,16 +16,16 @@ Effortlessly find repositories by searching for their names. The search function
 ## Screenshots
 
 1. **Changed Repo Per Page**
-   ![Changed Repo Per Page](./images/changed-repo-per-page.png)
+   ![Changed Repo Per Page](./images/crp.png)
 
 2. **GitHub Viewer on Basis of Search Filter**
-   ![GitHub Viewer on Basis of Search Filter](./images/github-viewer-search-filter.png)
+   ![GitHub Viewer on Basis of Search Filter](./images/sf.png)
 
 3. **Default**
-   ![Default](./images/default.png)
+   ![Default](./images/def.png)
 
 4. **Random Set of Page + Random Page**
-   ![Random Set of Page + Random Page](./images/random-set-of-page-random-page.png)
+   ![Random Set of Page + Random Page](./images/rsrp.png)
 
 ## Technologies Used
 - JavaScript
@@ -57,7 +57,7 @@ To run the GitHub Viewer locally and access GitHub data, follow these steps:
 
 Now you're ready to run the GitHub Viewer with your own API key and specified GitHub username.
 
-![Api Key and username location in script.js](./images/api-key-and-username-location-in-script.png)
+![Api Key and username location in script.js](./images/apiusr.png)
 
 ## Live Demo
 
